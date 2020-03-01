@@ -1,1 +1,1 @@
-# portmone-sdk-react
+# Portmone React SDK
